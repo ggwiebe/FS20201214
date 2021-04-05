@@ -1,0 +1,2 @@
+-- Databricks notebook source
+-- MAGIC %md # A first SQL Notebook
